@@ -1,5 +1,5 @@
-# 10.Death_by_Mushrooms
-ML Case Study – Mushroom Classification (Completed)
+# 10.Death_by_Mushrooms 
+A ML Case Study – Mushroom Classification (Completed)
 
 Objective: Built a classifier to distinguish edible from poisonous mushrooms using real-world fungal features from the UCI dataset.
 Project Goal: Achieved 100 % accuracy on the test set by modeling 22 categorical and numerical traits (cap shape, odor, gill color, etc.)—because nobody should learn the hard way.
